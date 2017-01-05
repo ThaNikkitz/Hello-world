@@ -1,4 +1,4 @@
 # Hello-world
 Fundamentos de CFD
 
-Empezando a jugar con github. 
+Empezando a trabajar con GitHub. 
